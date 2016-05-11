@@ -14,6 +14,7 @@ OpeningHours.isOpenOn(date)
 OpeningHours.nextOpeningDate(date)
 ```
 
+
 ## test cases
 
 You can use the following test cases to get started:
@@ -34,3 +35,9 @@ OpeningHours.nextOpeningDate(wednesday) === fridayMorning
 
 
 Choose whatever language you like. (PS: Valerie likes Haskell and Elixir).
+
+
+## don't be shy
+
+If you want to share what you came up with, don't hesitate to open an issue with a link to your repository.
+I will link it here and we both will live a long and happy life.
