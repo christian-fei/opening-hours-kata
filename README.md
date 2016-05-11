@@ -10,8 +10,27 @@ Amy and Valerie, the shop owners, need you to develop a simple program that sati
 Write a small module that follows this contract, so that Valerie can easily integrate it:
 
 ```
-OpeningHours.isOpen(date)
+OpeningHours.isOpenOn(date)
 OpeningHours.nextOpeningDate(date)
 ```
+
+## test cases
+
+You can use the following test cases to get started:
+
+```
+Shop opening days: Mon, Wed, Fri
+Shop opening hours: 08:00 - 16:00
+
+wednesday = '2016-05-11T12:22:11.824Z'
+thursday = '2016-05-12T12:22:11.824Z'
+fridayMorning = '2016-05-13T08:00:00.000Z'
+
+OpeningHours.isOpenOn(wednesday) == true
+OpeningHours.isOpenOn(thursday) == true
+
+OpeningHours.nextOpeningDate(wednesday) === fridayMorning
+```
+
 
 Choose whatever language you like. (PS: Valerie likes Haskell and Elixir).
