@@ -28,7 +28,7 @@ thursday = '2016-05-12T12:22:11.824Z'
 fridayMorning = '2016-05-13T08:00:00.000Z'
 
 OpeningHours.isOpenOn(wednesday) == true
-OpeningHours.isOpenOn(thursday) == true
+OpeningHours.isOpenOn(thursday) == false
 
 OpeningHours.nextOpeningDate(wednesday) === fridayMorning
 ```
