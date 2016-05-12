@@ -41,3 +41,7 @@ Choose whatever language you like. (PS: Valerie likes Haskell and Elixir).
 
 If you want to share what you came up with, don't hesitate to open an issue with a link to your repository.
 I will link it here and we both will live a long and happy life.
+
+Submitted solutions:
+
+- [petemcfarlane/opening-hours-kata ~ Haskell](https://github.com/petemcfarlane/opening-hours-kata)
