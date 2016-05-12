@@ -1,0 +1,2 @@
+defmodule OpeningHours do
+end
