@@ -45,3 +45,4 @@ I will link it here and we both will live a long and happy life.
 Submitted solutions:
 
 - [petemcfarlane/opening-hours-kata ~ Haskell](https://github.com/petemcfarlane/opening-hours-kata)
+- [MatteoPierro/opening-hours-kata ~ Scala](https://github.com/MatteoPierro/opening-hours-kata)
