@@ -46,3 +46,4 @@ Submitted solutions:
 
 - [petemcfarlane/opening-hours-kata ~ Haskell](https://github.com/petemcfarlane/opening-hours-kata)
 - [MatteoPierro/opening-hours-kata ~ Scala](https://github.com/MatteoPierro/opening-hours-kata)
+- [tiagomartinho/opening-hours-kata ~ Scala](https://github.com/tiagomartinho/opening-hours-kata)
