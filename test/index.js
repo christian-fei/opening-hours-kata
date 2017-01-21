@@ -24,14 +24,25 @@ OpeningHours.isOpenOn(thursday) == false
 OpeningHours.nextOpeningDate(wednesday) === fridayMorning
 */
 
-test('The opening days and hours of the shop need to be configurable, and can be scattered in the week (e.g. Mon, Wed, Fri from 08:00 to 16:00)', function () {
+test(`
+The opening days and hours of the shop
+need to be configurable, and can be
+scattered in the week
+(e.g. Mon, Wed, Fri from 08:00 to 16:00)
+`, function () {
   ok(false)
 })
 
-test('Amy needs to display the date of the next opening on a billboard outside of the shop', function () {
+test(`
+Amy needs to display the date of the next
+opening on a billboard outside of the shop
+`, function () {
   ok(false)
 })
 
-test('Amy also wants to display on the website of the shop whether it is opened or closed at the moment', function () {
+test(`
+Amy also wants to display on the website of the
+shop whether it is opened or closed at the moment
+`, function () {
   ok(false)
 })
