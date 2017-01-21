@@ -1,0 +1,22 @@
+{
+  "name": "opening-hours-kata",
+  "version": "0.0.0",
+  "description": "Amy and Valerie, the shop owners, need you to develop a simple program that satisfies the following requirements:",
+  "main": "index.js",
+  "scripts": {
+    "test": "m.test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christian-fei/opening-hours-kata.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christian-fei/opening-hours-kata/issues"
+  },
+  "homepage": "https://github.com/christian-fei/opening-hours-kata#readme",
+  "devDependencies": {
+    "m.test": "0.0.28"
+  }
+}
