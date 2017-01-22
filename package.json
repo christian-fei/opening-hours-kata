@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/christian-fei/opening-hours-kata#readme",
   "devDependencies": {
-    "m.test": "0.0.28"
+    "m.test": "0.0.32"
   }
 }
