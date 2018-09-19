@@ -50,3 +50,4 @@ Submitted solutions:
 - [AndrewSinclair/opening-hours-kata ~ Clojure](https://github.com/AndrewSinclair/opening-hours-kata)
 - [amirci/opening-hours-kata-hs ~ Haskell](https://github.com/amirci/opening-hours-kata-hs)
 - [shanecharles/opening-hours-kata-solutions ~ Erlang & Commodore 64](https://github.com/shanecharles/opening-hours-kata-solutions/)
+- [fain182/opening-hours-kata ~ PHP] (https://github.com/fain182/opening-hours-kata)
